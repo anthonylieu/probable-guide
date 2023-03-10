@@ -13,3 +13,7 @@ To use the character generator, follow these steps:
 <br>3. Press the "Generate" button to create a new string of characters.</br>
 
 <br>The program will produce a new string of characters each time the "Generate" button is pressed.</br>
+
+<br>https://anthonylieu.github.io/probable-guide/</br>
+
+![_C__Users_Anthony_bootcamp_module-3-assignment_index html](https://user-images.githubusercontent.com/38957648/224194343-84659c01-578b-4f7d-b711-46bef052c6ff.png)
